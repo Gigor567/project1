@@ -1,0 +1,65 @@
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    background-color: darksalmon;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: darkviolet;
+}
+
+img {
+    width: 600px;
+    height: 450px;
+    object-fit: cover;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    border: 10px solid olive;
+    max-width: 100%;
+}
+
+.red-pand {
+    border: 10px solid darkmagenta;
+    border-radius: 50px;
+}
+
+h2 {
+    background-color: darkolivegreen;
+    transition: all 2s;
+}
+
+h2:hover {
+    letter-spacing: 5px;
+
+}
+
+a{
+    color: purple;
+    text-decoration: none;
+    font-style: italic;
+}
+hr {
+    border: 5px solid lime;
+} 
+ul {
+    color:darkgray;
+}
+.abcde {
+    text-decoration: underline;
+} ol {
+    color: darkred;
+} 
+.aserik {
+    text-decoration: line-through;
+}
+span {
+    color: chocolate;
+}
+.dom {
+    border: 10px solid cornflowerblue;
+    border-bottom-color: crimson;
+}
+.ramin {
+    margin-bottom: 0;
+    vertical-align: middle;
+}
+
